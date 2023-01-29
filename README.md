@@ -1,4 +1,4 @@
-<img src="https://github.com/nwanne56/nwanne56/blob/main/src/classic.gif" float="left" width="20%" title="sup">
+<!-- <img src="https://github.com/nwanne56/nwanne56/blob/main/src/classic.gif" float="left" width="20%" title="sup"> -->
 </br>
 
 TBD
