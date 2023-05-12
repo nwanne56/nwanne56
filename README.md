@@ -14,7 +14,7 @@
 
 <h3 align="center">Stats:</br>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nwanne56&theme=prussian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)   [![Nwanne56's GitHub stats](https://github-readme-stats.vercel.app/api?username=nwanne56&theme=prussian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nwanne56&theme=prussian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)   [![Nwanne56's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nwanne56&theme=prussian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   
 
 </h3>
