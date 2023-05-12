@@ -9,7 +9,7 @@
 - finished project: [TerraPinned][1] </li>
 - contact: [mdrrwork@gmail.com][2]</li>
 
-[1]: https://stackoverflow.com/users/214446/mb21
+[1]: https://github.com/AmanSheth/TerraPinned
 [2]: mdrrwork@gmail.com
 
 <h3 align="center">Stats:</br>
